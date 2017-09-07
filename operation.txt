@@ -1,0 +1,1 @@
+"/home/li/openslam/database/Stereo_data/EUROC/V1_02_medium/mav0/cam0/data" "/home/li/openslam/database/Stereo_data/EUROC/V1_02_medium/mav0/cam1/data" "/home/li/openslam/database/Stereo_data/EUROC/V1_02_medium/mav0/cam0/V102.txt" "/home/li/work/MyProject/StereoVO/StereoVO/config/euroc_config.yaml"

@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Description": "StereoVO",
+        "Description[x-test]": "xxStereoVOxx",
+        "Id": "stereovo",
+        "Name": "StereoVO",
+        "Name[x-test]": "xxStereoVOxx",
+        "ServiceTypes": [
+            "KDevelop/Plugin"
+        ]
+    },
+    "X-KDevelop-Category": "Global",
+    "X-KDevelop-Mode": "GUI"
+}

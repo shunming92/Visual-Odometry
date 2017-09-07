@@ -1,0 +1,2 @@
+/home/li/work/MyProject/Stereo_VisualOdometry/build/src/CMakeFiles/StereoVO.dir
+/home/li/work/MyProject/Stereo_VisualOdometry/build/src/CMakeFiles/main.dir
